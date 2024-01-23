@@ -4,6 +4,9 @@ This site was developed by me and some friends for the company Lost Shield, whic
 # Vortexia Shield
 https://vortexiashield.com
 
+# WARN!
+- `PROJECT NOT FINISHED! I'M MISSING A LOT OF THINGS, AND I'M ALSO NOT GOING TO FINALIZE IT, THAT IS, NO UPDATES`
+
 # Contact
 - Discord: @pxxdroo
 ![Screenshot_1](https://github.com/pxxdroo/simple-shield-website/assets/156277956/2fa7d0ed-546e-4b7b-9ab8-254e48f9b706)
